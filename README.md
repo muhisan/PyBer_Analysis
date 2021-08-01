@@ -9,7 +9,7 @@ access to ride sharing services and will also help determine the affordability o
 - Jupyter notebook 6.4.0
 
 ## 2. Results
- 
+![summary](https://github.com/muhisan/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 ## 3. Summary
 
 
